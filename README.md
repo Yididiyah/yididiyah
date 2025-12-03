@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yididiya</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia.</h3>
+<h3 align="center">A passionate fullstack developer from Ethiopia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yididiyah&label=Profile%20views&color=0e75b6&style=flat" alt="yididiyah" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Next.js and Node.js**
 
-- 👯 I’m looking to collaborate on **React.js projects**
+- 👯 I’m looking to collaborate on **Fullstack javascript projects**
 
 - 📫 How to reach me **yididiyazike@gmail.com**
 
